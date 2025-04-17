@@ -1,10 +1,10 @@
 # 💫 About Me:
 
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=#04B2B8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kevin+Garcia;Welcome+to+my+profile!;Software+Engineer;Creative;Thoughtful;Meticulous;Trustworthy;Trail+Runner;Music+Composition+Enthusiast" alt="Typing SVG" /></a>
+  </div>
+
 I'm a software engineer whose core skills lie in detailed analysis, creative design, quality development and precise fulfillment of end-user requirements. I'm also a music composition enthusiast.<br><br>I'm currently working on an Angular application which monitors the level of a water tank. The app communicates with an ESP32 via MQTT. The entire system will be installed in my home and other locations, being a way to prevent water wasting. I'm trying to make the app scallable to add some other features in the future.
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kevin-garcía-morales-1b0957261) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30203146) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinmor2099@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -137,3 +137,9 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Koras-8u&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+
+[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/kevin-garc%C3%ADa-morales-1b0957261/) [<img src="https://cdn.prod.website-files.com/63515819b6d9250e539b81c8/64ba8018aed08ef3e9a4f3f4_stackoverflow-tile.svg" width="80"/>](https://stackoverflow.com/users/30203146)
+
+# Let's Connect!:
