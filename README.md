@@ -20,6 +20,8 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     </kbd>
+    <br>
+    <br>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
@@ -64,6 +66,18 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
     </kbd>
     <kbd>
+      <kbd>Testing</kbd>
+      <br>
+      <br>
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+    </kbd>
+    <br>
+    <br>
+    <kbd>
       <kbd>DevOps and CI/CD</kbd>
       <br>
       <br>
@@ -77,18 +91,6 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
       <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
       <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Testing</kbd>
-      <br>
-      <br>
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
     </kbd>
     <kbd>
       <kbd>Others</kbd>
