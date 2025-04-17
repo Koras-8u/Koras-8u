@@ -56,6 +56,7 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     </kbd>
     <kbd>
       <kbd>API and Integration</kbd>
@@ -93,20 +94,31 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
       <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
     </kbd>
     <kbd>
-      <kbd>Others</kbd>
+      <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>Microcontrollers</kbd>
+      <br>
+      <br>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
       <img width="40px" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" />
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-      <img width="40px" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000">
-      <img width="40px" src="https://lachiver.fr/Jammy/res/cura.svg">
-      <img width="100px" src="https://static.bidcom.com.ar/images/marcas/creality-grey.svg">
       <img width="40px" src="https://nodered.org/about/resources/media/node-red-icon.svg">
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>CAD</kbd>
+      <br>
+      <br>
+      <img width="40px" src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000">
+      <img width="40px" src="https://lachiver.fr/Jammy/res/cura.svg">
+      <img width="100px" src="https://static.bidcom.com.ar/images/marcas/creality-grey.svg">
       <img width="35px" src="https://www.hagerman.com/hubfs/Autodesk_Images/Icons/autodesk-fusion-360-product-icon.svg">  
     </kbd>
   </p>
