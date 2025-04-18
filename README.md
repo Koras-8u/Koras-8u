@@ -131,9 +131,9 @@ I'm a software engineer whose core skills lie in detailed analysis, creative des
 
 <p align="center">
 <a href="https://github.com/Koras-8u">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Koras-8u&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Koras-8u&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Koras-8u&theme=react&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koras-8u&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Koras-8u&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </a>
 </p>
 
