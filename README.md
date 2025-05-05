@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a software engineer whose core skills lie in detailed analysis, creative design, quality development and precise fulfillment of end-user requirements. I'm also a music composition enthusiast.<br><br>I'm currently working on an Angular application which monitors the level of a water tank. The app communicates with an ESP32 via MQTT. The entire system will be installed in my home and other locations, being a way to prevent water wasting. I'm trying to make the app scallable to add some other features in the future.
+I'm a software engineer whose core skills lie in detailed analysis, creative design, quality development and precise fulfillment of end-user requirements. I'm also a music composition enthusiast.
 
 ## 💻 Tech Stack:
 
